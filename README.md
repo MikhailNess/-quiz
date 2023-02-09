@@ -3,3 +3,8 @@
 ### __Для запуска:__
 Убедитесь, что у вас установлен ruby.
 #### Склонируйте репозиторий
+` git clone https://github.com/MikhailNess/-quiz.git `
+#### Перейдите в папку quiz
+`cd -quiz`
+#### Запустите игру
+`ruby main.rb`
