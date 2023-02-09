@@ -5,6 +5,6 @@
 #### Склонируйте репозиторий
 ` git clone https://github.com/MikhailNess/-quiz.git `
 #### Перейдите в папку quiz
-`cd -quiz`
+`cd quiz`
 #### Запустите игру
 `ruby main.rb`
